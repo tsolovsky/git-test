@@ -1,2 +1,2 @@
 # git-test
-git tet
+git test
